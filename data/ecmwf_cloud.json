@@ -2,8 +2,8 @@
   "source": "ECMWF",
   "model": "AIFS Single",
   "parameter": "Total Cloud Cover",
-  "model_run": "2026-10-21T06:00:00Z",
-  "generated_at": "2026-10-21T14:21:44.628723Z",
+  "model_run": "2026-10-21T12:00:00Z",
+  "generated_at": "2026-10-21T20:13:34.616221Z",
   "forecast_interval_hours": 6,
   "forecast_length_hours": 336,
   "locations": {
@@ -40,24 +40,12 @@
   },
   "forecasts": [
     {
-      "valid_time": "2026-10-21T06:00:00Z",
+      "valid_time": "2026-10-21T12:00:00Z",
       "step_hours": 0,
       "cloud_total_percent": {
-        "reykjavik": 29.0,
-        "snaefellsnes": 29.0,
-        "vik": 7.0,
-        "hofn": 100.0,
-        "akureyri": 67.0,
-        "egilsstadir": 100.0
-      }
-    },
-    {
-      "valid_time": "2026-10-21T12:00:00Z",
-      "step_hours": 6,
-      "cloud_total_percent": {
-        "reykjavik": 21.0,
-        "snaefellsnes": 28.0,
-        "vik": 35.0,
+        "reykjavik": 31.0,
+        "snaefellsnes": 11.0,
+        "vik": 6.0,
         "hofn": 100.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
@@ -65,10 +53,10 @@
     },
     {
       "valid_time": "2026-10-21T18:00:00Z",
-      "step_hours": 12,
+      "step_hours": 6,
       "cloud_total_percent": {
-        "reykjavik": 33.0,
-        "snaefellsnes": 51.0,
+        "reykjavik": 22.0,
+        "snaefellsnes": 41.0,
         "vik": 25.0,
         "hofn": 100.0,
         "akureyri": 100.0,
@@ -77,155 +65,155 @@
     },
     {
       "valid_time": "2026-10-22T00:00:00Z",
-      "step_hours": 18,
+      "step_hours": 12,
       "cloud_total_percent": {
-        "reykjavik": 69.0,
-        "snaefellsnes": 73.0,
-        "vik": 43.0,
-        "hofn": 88.0,
+        "reykjavik": 48.0,
+        "snaefellsnes": 66.0,
+        "vik": 45.0,
+        "hofn": 86.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-10-22T06:00:00Z",
-      "step_hours": 24,
+      "step_hours": 18,
       "cloud_total_percent": {
-        "reykjavik": 88.0,
-        "snaefellsnes": 87.0,
-        "vik": 91.0,
-        "hofn": 20.0,
-        "akureyri": 77.0,
-        "egilsstadir": 94.0
+        "reykjavik": 86.0,
+        "snaefellsnes": 82.0,
+        "vik": 94.0,
+        "hofn": 22.0,
+        "akureyri": 66.0,
+        "egilsstadir": 83.0
       }
     },
     {
       "valid_time": "2026-10-22T12:00:00Z",
-      "step_hours": 30,
+      "step_hours": 24,
       "cloud_total_percent": {
-        "reykjavik": 92.0,
-        "snaefellsnes": 93.0,
-        "vik": 90.0,
-        "hofn": 85.0,
+        "reykjavik": 87.0,
+        "snaefellsnes": 95.0,
+        "vik": 72.0,
+        "hofn": 87.0,
         "akureyri": 51.0,
-        "egilsstadir": 42.0
+        "egilsstadir": 52.0
       }
     },
     {
       "valid_time": "2026-10-22T18:00:00Z",
-      "step_hours": 36,
+      "step_hours": 30,
       "cloud_total_percent": {
-        "reykjavik": 54.0,
-        "snaefellsnes": 91.0,
-        "vik": 65.0,
-        "hofn": 62.0,
-        "akureyri": 73.0,
-        "egilsstadir": 72.0
+        "reykjavik": 51.0,
+        "snaefellsnes": 76.0,
+        "vik": 68.0,
+        "hofn": 45.0,
+        "akureyri": 57.0,
+        "egilsstadir": 66.0
       }
     },
     {
       "valid_time": "2026-10-23T00:00:00Z",
-      "step_hours": 42,
+      "step_hours": 36,
       "cloud_total_percent": {
-        "reykjavik": 50.0,
-        "snaefellsnes": 60.0,
-        "vik": 74.0,
-        "hofn": 51.0,
-        "akureyri": 44.0,
-        "egilsstadir": 76.0
+        "reykjavik": 47.0,
+        "snaefellsnes": 49.0,
+        "vik": 69.0,
+        "hofn": 62.0,
+        "akureyri": 33.0,
+        "egilsstadir": 71.0
       }
     },
     {
       "valid_time": "2026-10-23T06:00:00Z",
-      "step_hours": 48,
+      "step_hours": 42,
       "cloud_total_percent": {
-        "reykjavik": 52.0,
-        "snaefellsnes": 47.0,
-        "vik": 71.0,
-        "hofn": 69.0,
-        "akureyri": 58.0,
-        "egilsstadir": 91.0
-      }
-    },
-    {
-      "valid_time": "2026-10-23T12:00:00Z",
-      "step_hours": 54,
-      "cloud_total_percent": {
-        "reykjavik": 51.0,
-        "snaefellsnes": 49.0,
-        "vik": 91.0,
-        "hofn": 79.0,
-        "akureyri": 63.0,
-        "egilsstadir": 84.0
-      }
-    },
-    {
-      "valid_time": "2026-10-23T18:00:00Z",
-      "step_hours": 60,
-      "cloud_total_percent": {
-        "reykjavik": 48.0,
-        "snaefellsnes": 60.0,
-        "vik": 93.0,
-        "hofn": 77.0,
-        "akureyri": 77.0,
+        "reykjavik": 44.0,
+        "snaefellsnes": 46.0,
+        "vik": 70.0,
+        "hofn": 67.0,
+        "akureyri": 52.0,
         "egilsstadir": 85.0
       }
     },
     {
-      "valid_time": "2026-10-24T00:00:00Z",
-      "step_hours": 66,
+      "valid_time": "2026-10-23T12:00:00Z",
+      "step_hours": 48,
       "cloud_total_percent": {
-        "reykjavik": 45.0,
-        "snaefellsnes": 59.0,
+        "reykjavik": 53.0,
+        "snaefellsnes": 45.0,
+        "vik": 89.0,
+        "hofn": 72.0,
+        "akureyri": 60.0,
+        "egilsstadir": 81.0
+      }
+    },
+    {
+      "valid_time": "2026-10-23T18:00:00Z",
+      "step_hours": 54,
+      "cloud_total_percent": {
+        "reykjavik": 69.0,
+        "snaefellsnes": 55.0,
+        "vik": 91.0,
+        "hofn": 73.0,
+        "akureyri": 74.0,
+        "egilsstadir": 80.0
+      }
+    },
+    {
+      "valid_time": "2026-10-24T00:00:00Z",
+      "step_hours": 60,
+      "cloud_total_percent": {
+        "reykjavik": 70.0,
+        "snaefellsnes": 57.0,
         "vik": 86.0,
         "hofn": 90.0,
-        "akureyri": 96.0,
+        "akureyri": 93.0,
         "egilsstadir": 94.0
       }
     },
     {
       "valid_time": "2026-10-24T06:00:00Z",
-      "step_hours": 72,
+      "step_hours": 66,
       "cloud_total_percent": {
-        "reykjavik": 40.0,
-        "snaefellsnes": 58.0,
-        "vik": 74.0,
-        "hofn": 76.0,
-        "akureyri": 95.0,
-        "egilsstadir": 97.0
+        "reykjavik": 57.0,
+        "snaefellsnes": 56.0,
+        "vik": 77.0,
+        "hofn": 75.0,
+        "akureyri": 92.0,
+        "egilsstadir": 96.0
       }
     },
     {
       "valid_time": "2026-10-24T12:00:00Z",
-      "step_hours": 78,
+      "step_hours": 72,
       "cloud_total_percent": {
-        "reykjavik": 47.0,
-        "snaefellsnes": 76.0,
-        "vik": 57.0,
-        "hofn": 89.0,
+        "reykjavik": 37.0,
+        "snaefellsnes": 63.0,
+        "vik": 67.0,
+        "hofn": 95.0,
         "akureyri": 95.0,
-        "egilsstadir": 92.0
+        "egilsstadir": 94.0
       }
     },
     {
       "valid_time": "2026-10-24T18:00:00Z",
-      "step_hours": 84,
+      "step_hours": 78,
       "cloud_total_percent": {
-        "reykjavik": 54.0,
-        "snaefellsnes": 82.0,
-        "vik": 40.0,
+        "reykjavik": 36.0,
+        "snaefellsnes": 63.0,
+        "vik": 76.0,
         "hofn": 96.0,
-        "akureyri": 98.0,
+        "akureyri": 97.0,
         "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-10-25T00:00:00Z",
-      "step_hours": 90,
+      "step_hours": 84,
       "cloud_total_percent": {
-        "reykjavik": 58.0,
-        "snaefellsnes": 84.0,
-        "vik": 40.0,
+        "reykjavik": 41.0,
+        "snaefellsnes": 67.0,
+        "vik": 56.0,
         "hofn": 98.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
@@ -233,11 +221,11 @@
     },
     {
       "valid_time": "2026-10-25T06:00:00Z",
-      "step_hours": 96,
+      "step_hours": 90,
       "cloud_total_percent": {
-        "reykjavik": 46.0,
-        "snaefellsnes": 63.0,
-        "vik": 43.0,
+        "reykjavik": 43.0,
+        "snaefellsnes": 66.0,
+        "vik": 64.0,
         "hofn": 99.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
@@ -245,11 +233,11 @@
     },
     {
       "valid_time": "2026-10-25T12:00:00Z",
-      "step_hours": 102,
+      "step_hours": 96,
       "cloud_total_percent": {
-        "reykjavik": 32.0,
-        "snaefellsnes": 58.0,
-        "vik": 39.0,
+        "reykjavik": 47.0,
+        "snaefellsnes": 56.0,
+        "vik": 56.0,
         "hofn": 99.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
@@ -257,11 +245,11 @@
     },
     {
       "valid_time": "2026-10-25T18:00:00Z",
-      "step_hours": 108,
+      "step_hours": 102,
       "cloud_total_percent": {
-        "reykjavik": 35.0,
-        "snaefellsnes": 73.0,
-        "vik": 28.0,
+        "reykjavik": 43.0,
+        "snaefellsnes": 71.0,
+        "vik": 43.0,
         "hofn": 98.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
@@ -269,95 +257,95 @@
     },
     {
       "valid_time": "2026-10-26T00:00:00Z",
-      "step_hours": 114,
+      "step_hours": 108,
       "cloud_total_percent": {
-        "reykjavik": 54.0,
-        "snaefellsnes": 86.0,
-        "vik": 29.0,
-        "hofn": 92.0,
+        "reykjavik": 81.0,
+        "snaefellsnes": 95.0,
+        "vik": 45.0,
+        "hofn": 96.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-10-26T06:00:00Z",
-      "step_hours": 120,
+      "step_hours": 114,
       "cloud_total_percent": {
-        "reykjavik": 67.0,
-        "snaefellsnes": 93.0,
-        "vik": 40.0,
-        "hofn": 41.0,
+        "reykjavik": 96.0,
+        "snaefellsnes": 100.0,
+        "vik": 41.0,
+        "hofn": 81.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-10-26T12:00:00Z",
-      "step_hours": 126,
+      "step_hours": 120,
       "cloud_total_percent": {
-        "reykjavik": 73.0,
-        "snaefellsnes": 94.0,
-        "vik": 66.0,
-        "hofn": 42.0,
-        "akureyri": 98.0,
-        "egilsstadir": 86.0
+        "reykjavik": 93.0,
+        "snaefellsnes": 100.0,
+        "vik": 45.0,
+        "hofn": 21.0,
+        "akureyri": 100.0,
+        "egilsstadir": 94.0
       }
     },
     {
       "valid_time": "2026-10-26T18:00:00Z",
-      "step_hours": 132,
+      "step_hours": 126,
       "cloud_total_percent": {
-        "reykjavik": 84.0,
-        "snaefellsnes": 88.0,
-        "vik": 98.0,
-        "hofn": 97.0,
-        "akureyri": 95.0,
-        "egilsstadir": 95.0
+        "reykjavik": 79.0,
+        "snaefellsnes": 100.0,
+        "vik": 81.0,
+        "hofn": 90.0,
+        "akureyri": 88.0,
+        "egilsstadir": 89.0
       }
     },
     {
       "valid_time": "2026-10-27T00:00:00Z",
-      "step_hours": 138,
+      "step_hours": 132,
       "cloud_total_percent": {
-        "reykjavik": 99.0,
-        "snaefellsnes": 98.0,
-        "vik": 99.0,
-        "hofn": 100.0,
+        "reykjavik": 60.0,
+        "snaefellsnes": 79.0,
+        "vik": 96.0,
+        "hofn": 99.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-10-27T06:00:00Z",
-      "step_hours": 144,
+      "step_hours": 138,
       "cloud_total_percent": {
-        "reykjavik": 99.0,
-        "snaefellsnes": 100.0,
-        "vik": 99.0,
-        "hofn": 100.0,
-        "akureyri": 100.0,
-        "egilsstadir": 100.0
-      }
-    },
-    {
-      "valid_time": "2026-10-27T12:00:00Z",
-      "step_hours": 150,
-      "cloud_total_percent": {
-        "reykjavik": 98.0,
-        "snaefellsnes": 100.0,
-        "vik": 96.0,
+        "reykjavik": 92.0,
+        "snaefellsnes": 92.0,
+        "vik": 97.0,
         "hofn": 98.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
       }
     },
     {
+      "valid_time": "2026-10-27T12:00:00Z",
+      "step_hours": 144,
+      "cloud_total_percent": {
+        "reykjavik": 96.0,
+        "snaefellsnes": 100.0,
+        "vik": 95.0,
+        "hofn": 97.0,
+        "akureyri": 100.0,
+        "egilsstadir": 100.0
+      }
+    },
+    {
       "valid_time": "2026-10-27T18:00:00Z",
-      "step_hours": 156,
+      "step_hours": 150,
       "cloud_total_percent": {
         "reykjavik": 92.0,
         "snaefellsnes": 100.0,
-        "vik": 65.0,
+        "vik": 51.0,
         "hofn": 97.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
@@ -365,362 +353,374 @@
     },
     {
       "valid_time": "2026-10-28T00:00:00Z",
-      "step_hours": 162,
+      "step_hours": 156,
       "cloud_total_percent": {
-        "reykjavik": 57.0,
-        "snaefellsnes": 92.0,
-        "vik": 54.0,
-        "hofn": 95.0,
+        "reykjavik": 39.0,
+        "snaefellsnes": 97.0,
+        "vik": 31.0,
+        "hofn": 94.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-10-28T06:00:00Z",
-      "step_hours": 168,
+      "step_hours": 162,
       "cloud_total_percent": {
-        "reykjavik": 69.0,
-        "snaefellsnes": 63.0,
-        "vik": 80.0,
-        "hofn": 78.0,
+        "reykjavik": 75.0,
+        "snaefellsnes": 71.0,
+        "vik": 93.0,
+        "hofn": 77.0,
         "akureyri": 100.0,
         "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-10-28T12:00:00Z",
-      "step_hours": 174,
+      "step_hours": 168,
       "cloud_total_percent": {
-        "reykjavik": 90.0,
-        "snaefellsnes": 82.0,
-        "vik": 94.0,
-        "hofn": 81.0,
-        "akureyri": 86.0,
-        "egilsstadir": 95.0
+        "reykjavik": 94.0,
+        "snaefellsnes": 93.0,
+        "vik": 97.0,
+        "hofn": 92.0,
+        "akureyri": 95.0,
+        "egilsstadir": 96.0
       }
     },
     {
       "valid_time": "2026-10-28T18:00:00Z",
-      "step_hours": 180,
-      "cloud_total_percent": {
-        "reykjavik": 93.0,
-        "snaefellsnes": 94.0,
-        "vik": 91.0,
-        "hofn": 81.0,
-        "akureyri": 89.0,
-        "egilsstadir": 95.0
-      }
-    },
-    {
-      "valid_time": "2026-10-29T00:00:00Z",
-      "step_hours": 186,
-      "cloud_total_percent": {
-        "reykjavik": 89.0,
-        "snaefellsnes": 92.0,
-        "vik": 94.0,
-        "hofn": 70.0,
-        "akureyri": 84.0,
-        "egilsstadir": 83.0
-      }
-    },
-    {
-      "valid_time": "2026-10-29T06:00:00Z",
-      "step_hours": 192,
-      "cloud_total_percent": {
-        "reykjavik": 80.0,
-        "snaefellsnes": 92.0,
-        "vik": 96.0,
-        "hofn": 98.0,
-        "akureyri": 73.0,
-        "egilsstadir": 85.0
-      }
-    },
-    {
-      "valid_time": "2026-10-29T12:00:00Z",
-      "step_hours": 198,
-      "cloud_total_percent": {
-        "reykjavik": 86.0,
-        "snaefellsnes": 66.0,
-        "vik": 99.0,
-        "hofn": 100.0,
-        "akureyri": 94.0,
-        "egilsstadir": 100.0
-      }
-    },
-    {
-      "valid_time": "2026-10-29T18:00:00Z",
-      "step_hours": 204,
-      "cloud_total_percent": {
-        "reykjavik": 99.0,
-        "snaefellsnes": 96.0,
-        "vik": 98.0,
-        "hofn": 100.0,
-        "akureyri": 100.0,
-        "egilsstadir": 100.0
-      }
-    },
-    {
-      "valid_time": "2026-10-30T00:00:00Z",
-      "step_hours": 210,
-      "cloud_total_percent": {
-        "reykjavik": 100.0,
-        "snaefellsnes": 100.0,
-        "vik": 97.0,
-        "hofn": 94.0,
-        "akureyri": 100.0,
-        "egilsstadir": 98.0
-      }
-    },
-    {
-      "valid_time": "2026-10-30T06:00:00Z",
-      "step_hours": 216,
-      "cloud_total_percent": {
-        "reykjavik": 100.0,
-        "snaefellsnes": 100.0,
-        "vik": 96.0,
-        "hofn": 87.0,
-        "akureyri": 98.0,
-        "egilsstadir": 75.0
-      }
-    },
-    {
-      "valid_time": "2026-10-30T12:00:00Z",
-      "step_hours": 222,
-      "cloud_total_percent": {
-        "reykjavik": 100.0,
-        "snaefellsnes": 100.0,
-        "vik": 96.0,
-        "hofn": 82.0,
-        "akureyri": 100.0,
-        "egilsstadir": 85.0
-      }
-    },
-    {
-      "valid_time": "2026-10-30T18:00:00Z",
-      "step_hours": 228,
-      "cloud_total_percent": {
-        "reykjavik": 100.0,
-        "snaefellsnes": 98.0,
-        "vik": 97.0,
-        "hofn": 88.0,
-        "akureyri": 98.0,
-        "egilsstadir": 91.0
-      }
-    },
-    {
-      "valid_time": "2026-10-31T00:00:00Z",
-      "step_hours": 234,
-      "cloud_total_percent": {
-        "reykjavik": 82.0,
-        "snaefellsnes": 86.0,
-        "vik": 89.0,
-        "hofn": 87.0,
-        "akureyri": 94.0,
-        "egilsstadir": 90.0
-      }
-    },
-    {
-      "valid_time": "2026-10-31T06:00:00Z",
-      "step_hours": 240,
-      "cloud_total_percent": {
-        "reykjavik": 67.0,
-        "snaefellsnes": 63.0,
-        "vik": 69.0,
-        "hofn": 66.0,
-        "akureyri": 83.0,
-        "egilsstadir": 85.0
-      }
-    },
-    {
-      "valid_time": "2026-10-31T12:00:00Z",
-      "step_hours": 246,
+      "step_hours": 174,
       "cloud_total_percent": {
         "reykjavik": 95.0,
-        "snaefellsnes": 84.0,
-        "vik": 97.0,
-        "hofn": 71.0,
-        "akureyri": 61.0,
-        "egilsstadir": 28.0
-      }
-    },
-    {
-      "valid_time": "2026-10-31T18:00:00Z",
-      "step_hours": 252,
-      "cloud_total_percent": {
-        "reykjavik": 100.0,
-        "snaefellsnes": 99.0,
-        "vik": 100.0,
-        "hofn": 100.0,
-        "akureyri": 98.0,
-        "egilsstadir": 91.0
-      }
-    },
-    {
-      "valid_time": "2026-11-01T00:00:00Z",
-      "step_hours": 258,
-      "cloud_total_percent": {
-        "reykjavik": 92.0,
-        "snaefellsnes": 91.0,
-        "vik": 97.0,
-        "hofn": 98.0,
-        "akureyri": 97.0,
-        "egilsstadir": 99.0
-      }
-    },
-    {
-      "valid_time": "2026-11-01T06:00:00Z",
-      "step_hours": 264,
-      "cloud_total_percent": {
-        "reykjavik": 87.0,
-        "snaefellsnes": 75.0,
-        "vik": 78.0,
-        "hofn": 49.0,
+        "snaefellsnes": 97.0,
+        "vik": 94.0,
+        "hofn": 95.0,
         "akureyri": 95.0,
         "egilsstadir": 95.0
       }
     },
     {
-      "valid_time": "2026-11-01T12:00:00Z",
-      "step_hours": 270,
+      "valid_time": "2026-10-29T00:00:00Z",
+      "step_hours": 180,
       "cloud_total_percent": {
-        "reykjavik": 80.0,
-        "snaefellsnes": 79.0,
-        "vik": 70.0,
-        "hofn": 44.0,
+        "reykjavik": 86.0,
+        "snaefellsnes": 95.0,
+        "vik": 76.0,
+        "hofn": 61.0,
+        "akureyri": 86.0,
+        "egilsstadir": 88.0
+      }
+    },
+    {
+      "valid_time": "2026-10-29T06:00:00Z",
+      "step_hours": 186,
+      "cloud_total_percent": {
+        "reykjavik": 77.0,
+        "snaefellsnes": 83.0,
+        "vik": 80.0,
+        "hofn": 66.0,
+        "akureyri": 57.0,
+        "egilsstadir": 60.0
+      }
+    },
+    {
+      "valid_time": "2026-10-29T12:00:00Z",
+      "step_hours": 192,
+      "cloud_total_percent": {
+        "reykjavik": 73.0,
+        "snaefellsnes": 80.0,
+        "vik": 82.0,
+        "hofn": 94.0,
+        "akureyri": 42.0,
+        "egilsstadir": 91.0
+      }
+    },
+    {
+      "valid_time": "2026-10-29T18:00:00Z",
+      "step_hours": 198,
+      "cloud_total_percent": {
+        "reykjavik": 74.0,
+        "snaefellsnes": 80.0,
+        "vik": 78.0,
+        "hofn": 82.0,
+        "akureyri": 61.0,
+        "egilsstadir": 97.0
+      }
+    },
+    {
+      "valid_time": "2026-10-30T00:00:00Z",
+      "step_hours": 204,
+      "cloud_total_percent": {
+        "reykjavik": 74.0,
+        "snaefellsnes": 80.0,
+        "vik": 80.0,
+        "hofn": 37.0,
+        "akureyri": 68.0,
+        "egilsstadir": 76.0
+      }
+    },
+    {
+      "valid_time": "2026-10-30T06:00:00Z",
+      "step_hours": 210,
+      "cloud_total_percent": {
+        "reykjavik": 87.0,
+        "snaefellsnes": 71.0,
+        "vik": 96.0,
+        "hofn": 65.0,
+        "akureyri": 62.0,
+        "egilsstadir": 44.0
+      }
+    },
+    {
+      "valid_time": "2026-10-30T12:00:00Z",
+      "step_hours": 216,
+      "cloud_total_percent": {
+        "reykjavik": 85.0,
+        "snaefellsnes": 70.0,
+        "vik": 86.0,
+        "hofn": 83.0,
+        "akureyri": 77.0,
+        "egilsstadir": 82.0
+      }
+    },
+    {
+      "valid_time": "2026-10-30T18:00:00Z",
+      "step_hours": 222,
+      "cloud_total_percent": {
+        "reykjavik": 68.0,
+        "snaefellsnes": 73.0,
+        "vik": 85.0,
+        "hofn": 72.0,
+        "akureyri": 89.0,
+        "egilsstadir": 71.0
+      }
+    },
+    {
+      "valid_time": "2026-10-31T00:00:00Z",
+      "step_hours": 228,
+      "cloud_total_percent": {
+        "reykjavik": 65.0,
+        "snaefellsnes": 74.0,
+        "vik": 89.0,
+        "hofn": 81.0,
+        "akureyri": 92.0,
+        "egilsstadir": 76.0
+      }
+    },
+    {
+      "valid_time": "2026-10-31T06:00:00Z",
+      "step_hours": 234,
+      "cloud_total_percent": {
+        "reykjavik": 75.0,
+        "snaefellsnes": 72.0,
+        "vik": 89.0,
+        "hofn": 85.0,
+        "akureyri": 94.0,
+        "egilsstadir": 87.0
+      }
+    },
+    {
+      "valid_time": "2026-10-31T12:00:00Z",
+      "step_hours": 240,
+      "cloud_total_percent": {
+        "reykjavik": 68.0,
+        "snaefellsnes": 64.0,
+        "vik": 81.0,
+        "hofn": 82.0,
+        "akureyri": 88.0,
+        "egilsstadir": 89.0
+      }
+    },
+    {
+      "valid_time": "2026-10-31T18:00:00Z",
+      "step_hours": 246,
+      "cloud_total_percent": {
+        "reykjavik": 66.0,
+        "snaefellsnes": 70.0,
+        "vik": 61.0,
+        "hofn": 73.0,
         "akureyri": 81.0,
-        "egilsstadir": 46.0
+        "egilsstadir": 88.0
+      }
+    },
+    {
+      "valid_time": "2026-11-01T00:00:00Z",
+      "step_hours": 252,
+      "cloud_total_percent": {
+        "reykjavik": 78.0,
+        "snaefellsnes": 82.0,
+        "vik": 74.0,
+        "hofn": 54.0,
+        "akureyri": 66.0,
+        "egilsstadir": 73.0
+      }
+    },
+    {
+      "valid_time": "2026-11-01T06:00:00Z",
+      "step_hours": 258,
+      "cloud_total_percent": {
+        "reykjavik": 73.0,
+        "snaefellsnes": 71.0,
+        "vik": 76.0,
+        "hofn": 64.0,
+        "akureyri": 75.0,
+        "egilsstadir": 68.0
+      }
+    },
+    {
+      "valid_time": "2026-11-01T12:00:00Z",
+      "step_hours": 264,
+      "cloud_total_percent": {
+        "reykjavik": 65.0,
+        "snaefellsnes": 51.0,
+        "vik": 66.0,
+        "hofn": 44.0,
+        "akureyri": 68.0,
+        "egilsstadir": 54.0
       }
     },
     {
       "valid_time": "2026-11-01T18:00:00Z",
-      "step_hours": 276,
+      "step_hours": 270,
       "cloud_total_percent": {
-        "reykjavik": 54.0,
-        "snaefellsnes": 54.0,
-        "vik": 76.0,
-        "hofn": 37.0,
-        "akureyri": 80.0,
-        "egilsstadir": 33.0
+        "reykjavik": 95.0,
+        "snaefellsnes": 96.0,
+        "vik": 91.0,
+        "hofn": 20.0,
+        "akureyri": 56.0,
+        "egilsstadir": 27.0
       }
     },
     {
       "valid_time": "2026-11-02T00:00:00Z",
-      "step_hours": 282,
+      "step_hours": 276,
       "cloud_total_percent": {
-        "reykjavik": 65.0,
-        "snaefellsnes": 55.0,
-        "vik": 68.0,
-        "hofn": 30.0,
-        "akureyri": 66.0,
-        "egilsstadir": 28.0
+        "reykjavik": 100.0,
+        "snaefellsnes": 100.0,
+        "vik": 100.0,
+        "hofn": 90.0,
+        "akureyri": 97.0,
+        "egilsstadir": 76.0
       }
     },
     {
       "valid_time": "2026-11-02T06:00:00Z",
-      "step_hours": 288,
+      "step_hours": 282,
       "cloud_total_percent": {
-        "reykjavik": 74.0,
-        "snaefellsnes": 86.0,
-        "vik": 67.0,
-        "hofn": 27.0,
-        "akureyri": 59.0,
-        "egilsstadir": 22.0
+        "reykjavik": 100.0,
+        "snaefellsnes": 100.0,
+        "vik": 100.0,
+        "hofn": 100.0,
+        "akureyri": 99.0,
+        "egilsstadir": 92.0
       }
     },
     {
       "valid_time": "2026-11-02T12:00:00Z",
-      "step_hours": 294,
+      "step_hours": 288,
       "cloud_total_percent": {
-        "reykjavik": 80.0,
-        "snaefellsnes": 88.0,
-        "vik": 76.0,
-        "hofn": 32.0,
-        "akureyri": 78.0,
-        "egilsstadir": 30.0
+        "reykjavik": 100.0,
+        "snaefellsnes": 96.0,
+        "vik": 100.0,
+        "hofn": 100.0,
+        "akureyri": 100.0,
+        "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-11-02T18:00:00Z",
-      "step_hours": 300,
+      "step_hours": 294,
       "cloud_total_percent": {
-        "reykjavik": 89.0,
-        "snaefellsnes": 90.0,
-        "vik": 81.0,
-        "hofn": 38.0,
-        "akureyri": 66.0,
-        "egilsstadir": 23.0
+        "reykjavik": 94.0,
+        "snaefellsnes": 82.0,
+        "vik": 100.0,
+        "hofn": 98.0,
+        "akureyri": 99.0,
+        "egilsstadir": 99.0
       }
     },
     {
       "valid_time": "2026-11-03T00:00:00Z",
-      "step_hours": 306,
+      "step_hours": 300,
       "cloud_total_percent": {
-        "reykjavik": 89.0,
-        "snaefellsnes": 91.0,
-        "vik": 86.0,
-        "hofn": 76.0,
-        "akureyri": 81.0,
-        "egilsstadir": 48.0
+        "reykjavik": 85.0,
+        "snaefellsnes": 84.0,
+        "vik": 93.0,
+        "hofn": 100.0,
+        "akureyri": 93.0,
+        "egilsstadir": 92.0
       }
     },
     {
       "valid_time": "2026-11-03T06:00:00Z",
-      "step_hours": 312,
+      "step_hours": 306,
       "cloud_total_percent": {
-        "reykjavik": 90.0,
-        "snaefellsnes": 90.0,
-        "vik": 90.0,
-        "hofn": 79.0,
-        "akureyri": 88.0,
-        "egilsstadir": 67.0
+        "reykjavik": 67.0,
+        "snaefellsnes": 81.0,
+        "vik": 69.0,
+        "hofn": 60.0,
+        "akureyri": 76.0,
+        "egilsstadir": 50.0
       }
     },
     {
       "valid_time": "2026-11-03T12:00:00Z",
-      "step_hours": 318,
+      "step_hours": 312,
       "cloud_total_percent": {
-        "reykjavik": 79.0,
-        "snaefellsnes": 77.0,
-        "vik": 71.0,
-        "hofn": 72.0,
-        "akureyri": 92.0,
-        "egilsstadir": 81.0
+        "reykjavik": 96.0,
+        "snaefellsnes": 76.0,
+        "vik": 97.0,
+        "hofn": 62.0,
+        "akureyri": 62.0,
+        "egilsstadir": 28.0
       }
     },
     {
       "valid_time": "2026-11-03T18:00:00Z",
-      "step_hours": 324,
+      "step_hours": 318,
       "cloud_total_percent": {
-        "reykjavik": 45.0,
-        "snaefellsnes": 40.0,
-        "vik": 57.0,
-        "hofn": 28.0,
-        "akureyri": 79.0,
-        "egilsstadir": 45.0
+        "reykjavik": 100.0,
+        "snaefellsnes": 100.0,
+        "vik": 100.0,
+        "hofn": 100.0,
+        "akureyri": 97.0,
+        "egilsstadir": 94.0
       }
     },
     {
       "valid_time": "2026-11-04T00:00:00Z",
-      "step_hours": 330,
+      "step_hours": 324,
       "cloud_total_percent": {
-        "reykjavik": 86.0,
-        "snaefellsnes": 69.0,
-        "vik": 89.0,
-        "hofn": 21.0,
-        "akureyri": 77.0,
-        "egilsstadir": 42.0
+        "reykjavik": 95.0,
+        "snaefellsnes": 100.0,
+        "vik": 99.0,
+        "hofn": 100.0,
+        "akureyri": 100.0,
+        "egilsstadir": 100.0
       }
     },
     {
       "valid_time": "2026-11-04T06:00:00Z",
+      "step_hours": 330,
+      "cloud_total_percent": {
+        "reykjavik": 90.0,
+        "snaefellsnes": 93.0,
+        "vik": 99.0,
+        "hofn": 100.0,
+        "akureyri": 92.0,
+        "egilsstadir": 93.0
+      }
+    },
+    {
+      "valid_time": "2026-11-04T12:00:00Z",
       "step_hours": 336,
       "cloud_total_percent": {
-        "reykjavik": 98.0,
-        "snaefellsnes": 99.0,
-        "vik": 100.0,
-        "hofn": 96.0,
-        "akureyri": 88.0,
-        "egilsstadir": 65.0
+        "reykjavik": 62.0,
+        "snaefellsnes": 72.0,
+        "vik": 94.0,
+        "hofn": 79.0,
+        "akureyri": 82.0,
+        "egilsstadir": 38.0
       }
     }
   ],
